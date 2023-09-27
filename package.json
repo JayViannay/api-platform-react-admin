@@ -24,6 +24,8 @@
         "build": "encore production --progress"
     },
     "dependencies": {
-        "@api-platform/admin": "^3.4.4"
+        "@api-platform/admin": "^3.4.4",
+        "axios": "^1.5.0",
+        "react-hook-form": "^7.46.2"
     }
 }
